@@ -1,0 +1,70 @@
+.navbar-collapse
+{
+    font-size: 20;
+    font-weight: bolder;
+    padding-left: 60px;
+    }
+.logbutton1{
+     
+        font-weight: 200; 
+        color: white;    
+ }
+ .logbutton1{
+     
+  font-weight: 200; 
+  color: white;
+  margin-left:130px;
+  margin-top:  10px  
+}
+ .subbutton{
+    
+    font-weight: 200; 
+    color: white;
+    border-radius: 20px;
+    margin-left: 100px;
+    width: 150px;
+}
+
+.loginform{
+    color: rgba(194, 77, 10, 0.863);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10;
+    padding-top: 10;
+    margin-top: 20%;
+    margin-bottom:25%;
+    width: 600px;   
+    height: 350px; 
+    background-color: rgb(255, 246, 240); 
+}
+ .navbar-brand {
+    font-size: 60;
+    BORDER: 10PX SOLID WHITE;
+    }
+    .bgimg{
+
+        background-image: url("./books.jpg");      
+        width: 800%;      
+        height: 200%;      
+        background-position: center;      
+        background-size: cover;      
+        position: relative;
+      
+      }
+    .img-about
+    {
+        background-image: url("./books.jpg");
+        padding-left: 1px;    
+        width:1200px;
+        height:300px;
+        color: white;
+    }
+    .about-par{
+        padding: 50;      
+        text-align: justify;      
+        border: 1px solid gray;      
+      }
+      
+      .about-weltext{      
+        text-align: justify;      
+        border: 1px solid gray;      
+      }
